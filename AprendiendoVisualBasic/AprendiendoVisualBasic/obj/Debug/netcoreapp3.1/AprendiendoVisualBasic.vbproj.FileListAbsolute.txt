@@ -1,0 +1,13 @@
+C:\Users\desarrollo\Documents\Walther Olivo\C##\AprendiendoVisualBasic\AprendiendoVisualBasic\bin\Debug\netcoreapp3.1\AprendiendoVisualBasic.exe
+C:\Users\desarrollo\Documents\Walther Olivo\C##\AprendiendoVisualBasic\AprendiendoVisualBasic\bin\Debug\netcoreapp3.1\AprendiendoVisualBasic.deps.json
+C:\Users\desarrollo\Documents\Walther Olivo\C##\AprendiendoVisualBasic\AprendiendoVisualBasic\bin\Debug\netcoreapp3.1\AprendiendoVisualBasic.runtimeconfig.json
+C:\Users\desarrollo\Documents\Walther Olivo\C##\AprendiendoVisualBasic\AprendiendoVisualBasic\bin\Debug\netcoreapp3.1\AprendiendoVisualBasic.runtimeconfig.dev.json
+C:\Users\desarrollo\Documents\Walther Olivo\C##\AprendiendoVisualBasic\AprendiendoVisualBasic\bin\Debug\netcoreapp3.1\AprendiendoVisualBasic.dll
+C:\Users\desarrollo\Documents\Walther Olivo\C##\AprendiendoVisualBasic\AprendiendoVisualBasic\bin\Debug\netcoreapp3.1\AprendiendoVisualBasic.pdb
+C:\Users\desarrollo\Documents\Walther Olivo\C##\AprendiendoVisualBasic\AprendiendoVisualBasic\obj\Debug\netcoreapp3.1\AprendiendoVisualBasic.vbproj.AssemblyReference.cache
+C:\Users\desarrollo\Documents\Walther Olivo\C##\AprendiendoVisualBasic\AprendiendoVisualBasic\obj\Debug\netcoreapp3.1\AprendiendoVisualBasic.AssemblyInfoInputs.cache
+C:\Users\desarrollo\Documents\Walther Olivo\C##\AprendiendoVisualBasic\AprendiendoVisualBasic\obj\Debug\netcoreapp3.1\AprendiendoVisualBasic.AssemblyInfo.vb
+C:\Users\desarrollo\Documents\Walther Olivo\C##\AprendiendoVisualBasic\AprendiendoVisualBasic\obj\Debug\netcoreapp3.1\AprendiendoVisualBasic.vbproj.CoreCompileInputs.cache
+C:\Users\desarrollo\Documents\Walther Olivo\C##\AprendiendoVisualBasic\AprendiendoVisualBasic\obj\Debug\netcoreapp3.1\AprendiendoVisualBasic.dll
+C:\Users\desarrollo\Documents\Walther Olivo\C##\AprendiendoVisualBasic\AprendiendoVisualBasic\obj\Debug\netcoreapp3.1\AprendiendoVisualBasic.pdb
+C:\Users\desarrollo\Documents\Walther Olivo\C##\AprendiendoVisualBasic\AprendiendoVisualBasic\obj\Debug\netcoreapp3.1\AprendiendoVisualBasic.genruntimeconfig.cache
